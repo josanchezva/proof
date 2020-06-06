@@ -27,7 +27,7 @@ public class Proof extends Application {
             
             @Override
             public void handle(ActionEvent event) {
-                System.out.println("master!");
+                System.out.println("calc-divide!");
             }
         });
         
